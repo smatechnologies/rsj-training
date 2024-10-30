@@ -12,9 +12,7 @@ sidebar_label: 'Find Report From RSJ'
 
 ### Sub-Type
 
-<!--
 ![](../static/imgbasic/FromRSJOutput.png)
--->
 
 | Field | Required / Optional | Description |
 | --- | --- | --- |

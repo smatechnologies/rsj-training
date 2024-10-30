@@ -6,9 +6,7 @@ sidebar_label: 'Run JobFile'
 
 * This is the sub-tpye that is used to run Batch Jobs via RSJ.
 
-<!--
-![RSJ Sub-Type](../static/img/RunJobFile.png)
--->
+![RSJ Sub-Type](../static/imgbasic/RunJobFile.png)
 
 | Field | Required / Optional | Description |
 | --- | --- | --- |

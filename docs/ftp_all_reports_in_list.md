@@ -11,9 +11,7 @@ sidebar_label: 'FTP All Reports in List'
 
 ### Sub-Type
 
-<!--
 ![](../static/imgbasic/ftpallreportsinlist.png)
--->
 
 | Field | Required / Optional | Description |
 | --- | --- | --- |

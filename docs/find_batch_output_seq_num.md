@@ -13,9 +13,7 @@ sidebar_label: 'Find Batch Report Sequence Nnumber'
 
 ### Sub-Type
 
-<!--
 ![](../static/imgbasic/BatchOutputSEQNum.png)
--->
 
 | Field | Required / Optional | Description |
 | --- | --- | --- |

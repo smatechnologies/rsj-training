@@ -12,9 +12,7 @@ sidebar_label: 'Find Report From Episys Report'
 
 ### Sub-Type
 
-<!--
 ![](../static/imgbasic/ReportEpisysReport.png)
--->
 
 | Field | Required / Optional | Description |
 | --- | --- | --- |

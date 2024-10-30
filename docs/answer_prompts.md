@@ -10,9 +10,7 @@ sidebar_label: 'Answer Prompts'
 
 ### Sub-Type
 
-<!--
 ![ ](../static/imgbasic/AnswerPrompts.png)
--->
 
 | Field | Required / Optional | Description |
 | --- | --- | --- |

@@ -11,9 +11,8 @@ sidebar_label: 'Restart Point'
 
 ### Sub-Type Usage
 
-<!--
-![RSJ Sub-Type](../static/img/RunJobFile.png)
--->
+
+![RSJ Sub-Type](../static/imgbasic/RunJobFile.png)
 
 | Field | Required / Optional | Description |
 | --- | --- | --- |
