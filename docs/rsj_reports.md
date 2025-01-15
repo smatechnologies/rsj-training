@@ -11,3 +11,28 @@ sidebar_label: 'RSJ Reports'
 * The structure of the ```opcon_reports``` directory is:
   * ```/SYM/SYM###/opcon_reports/JOB.NAME```
   * Where JOB.NAME is the name of the Batch File that is executed byt RSJ. 
+
+## Directory Structures and Files
+
+```
+/SYM 
+    /SYM### 
+        /BATCH 
+            SMA_DATES.JOB 
+            Some_job_name_1 
+            ... 
+            Some_job_name_n 
+        /REPORT 
+            00013 000177 000179 000180 000181            
+        /opcon_reports
+            /Batch_Job_Name_1
+                BATCH_OUTPUT.xxxxxx
+                ...
+            /Batch_Job_Name_X
+                BATCH_OUTPUT.xxxxxx
+        /LETERSPECS
+            SMA_DATES
+        /DATAFILE
+            FILE2
+            ...
+```
