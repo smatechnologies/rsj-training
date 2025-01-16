@@ -12,11 +12,9 @@ sidebar_label: 'Backup and Prune'
 
  ```/ops/bin/backup_and_prune SYM### [# days_to_keep_reports] [# days_to_keep_backup]```
 
-| Parameter |	Required / Optional | Description |
-| --- | --- | --- |
-| ### | Required | Defines the Episys "SYM" where the control file resides. The value should be a three-digit number or an OpCon token that resolves to a three-digit number. |
-| # days_to_keep_reports | Required | Defines the number of days to keep files in the opcon_report directory |
-| # days_to_keep_backup | Required | Defines the number of backup files to keep |
+* **###:** Defines the Episys "SYM" where the control file resides. The value should be a three-digit number or an OpCon token that resolves to a three-digit number.
+* **# days_to_keep_reports:** Defines the number of days to keep files in the opcon_report directory
+* **# days_to_keep_backup:** Defines the number of backup files to keep
 
 
 :::tip Best Practice

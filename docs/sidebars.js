@@ -2,8 +2,6 @@ module.exports = {
   mySidebar: [
     'index',
     'introduction',
-    'prerecs_page',
-    'exercise1',
     'what_is_rsj',
     'rsj_reports',
     'sma_defaults',
@@ -13,16 +11,11 @@ module.exports = {
       collapsed: true,
       items: [
         'subtype_rsj',
-        'exercise2',
-        'exercise3',
         'answer_prompts',
-        'exercise4',
         'find_report_from_rsj',
-        'exercise5',
-        'find_report_from_episys_report',
         'find_batch_output_seq_num',
-        'ftp_all_reports_in_list',
-        'exercise6',
+        'find_report_from_episys_report',
+        'ftp_all_reports_in_list',       
       ],
     },
     {
@@ -30,20 +23,15 @@ module.exports = {
       label: 'RSJ Utilities',
       collapsed: true,
       items: [
-        'look_for_report',
-        'exercise7',
         'backup_and_prune',
-        'exercise8',
         'find_prompts',
-        'exercise9',
-        'restart_point',
         'force_log_off',
+        'restart_point',
       ],
     },
-    'rsj_lab',  
     {
       type: 'category',
-      label: 'Start Image References',
+      label: 'References',
       collapsed: true,
       items: [
         'subtype_rsj_startimage',
@@ -51,8 +39,9 @@ module.exports = {
         'find_report_from_rsj_startimage',
         'find_batch_output_seq_num_startimage',
         'find_report_from_episys_report_startimage',
-        'ftp_all_reports_in_list_startimage',
+        'ftp_all_reports_in_list_startimage', 
       ],
     },
+  
   ],
 };

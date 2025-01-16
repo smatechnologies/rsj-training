@@ -4,7 +4,7 @@ sidebar_label: 'Intoduction to RSJ'
 
 # Introduction to RSJ
 
-* OpCon with RSJ allow your IT team to streamline Symitar platform administration and redirect their efforts towards strategic and growth initiatives, rather than routine operational tasks.
+* OpCon with RSJ allows your IT team to streamline Symitar platform administration and redirect their efforts towards strategic and growth initiatives, rather than routine operational tasks.
 
 * With RSJ you can:
   * Automate repetitive tasks to prevent errors and save time
